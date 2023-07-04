@@ -12,6 +12,7 @@ Este é um aplicativo gerador de conselhos simples, desenvolvido utilizando HTML
 - HTML
 - CSS
 - JavaScript
+- API
 
 <br>
 
