@@ -19,7 +19,7 @@ Este é um aplicativo gerador de conselhos simples, desenvolvido utilizando HTML
 
 ```
 1 - Faça o clone deste repositório em sua máquina utilizando o comando: 
-git clone https://github.com/RamonPessoaDev/App-Advice-Generator-
+git clone https://github.com/RamonPessoaDev/App-Advice-Generator-.git
 ```
 
 <br>
