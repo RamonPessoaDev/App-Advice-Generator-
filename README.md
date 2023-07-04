@@ -1,5 +1,5 @@
 # Advice Generator App
-Este é um aplicativo gerador de conselhos simples, desenvolvido utilizando HTML, CSS e JavaScript. O aplicativo exibe um conselho aleatório. Porém somente um conselho, não foi implementado o botão para gerar conselhos aleatórios. 🚀
+Este é um aplicativo gerador de conselhos simples, desenvolvido utilizando HTML, CSS e JavaScript. O aplicativo exibe um conselho aleatório ao clicar no botão para gerar conselhos aleatórios. 🚀
 
 <br><br>
 
